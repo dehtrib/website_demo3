@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial;
+}
+
+.left-align {
+  text-align: left;
+}
+
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
